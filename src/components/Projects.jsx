@@ -69,7 +69,7 @@ export const Projects = () => {
       description:
         "The Online Doctor Appointment System allows patients to easily book appointments with doctors, providing a convenient and efficient healthcare experience.",
       technologies: ["React", "CSS","Spring boot", "Redis"],
-      link: "https://github.com/Ho4Vit/Doctor-Appointment-Booking-System",
+      link: "https://github.com/Newbie1402/Doctor-Appointment-Booking-System",
       delay: 0.2,
       parallaxSpeed: 1.2,
     },
